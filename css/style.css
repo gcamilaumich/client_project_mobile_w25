@@ -9,6 +9,10 @@ header {
     color: white;
 }
 
+li.active a {
+    color: #FFCB05;
+}
+
   body{
     /* background-color: #FFCB05;
     font-size: 18px;
