@@ -198,6 +198,23 @@ nav a:hover, nav a:focus{
     grid-row: 4
 }
 
+footer a {
+    color: white;
+    text-decoration: underline;
+  }
+
+footer a:visited {
+    color: lightgray;
+  }
+
+footer a:hover {
+    color: #ffcb05;
+  }
+
+footer a:active {
+    color: white;
+  }
+
 /* @media screen and (min-width: 800px){
     nav {
          text-align: right;
